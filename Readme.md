@@ -1,1 +1,1 @@
-# myProject **bold**.
+# myProject.
